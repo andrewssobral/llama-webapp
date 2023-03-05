@@ -1,2 +1,2 @@
-# llama-webapp
-Gradio Web Interface to Interact with LLaMA
+# LLaMA Web App
+Gradio web interface to interact with LLaMA
